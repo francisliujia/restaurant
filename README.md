@@ -4,12 +4,17 @@ steps:
 3. build plan
 4. set up the project and create virtual env
 5. create the project structure 
+
     restaurant-api/
-    │
+    
     ├── app.py
+    
     ├── models.py
+
     ├── resources.py
+
     ├── initial_data.py
+
     └── config.py
 
 6. write config file config.py
